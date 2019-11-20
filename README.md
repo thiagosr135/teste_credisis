@@ -2,7 +2,7 @@
 
 Aplicação Web envolvendo conceitos de CRUD PHP para cadastrar Municípios e Estados, proposto como teste pela [CrediSIS CentralCredi](https://credisis.com.br/central-credi).
 
-![](print.png)
+![](print.PNG)
 
 ## Clonar repositório
 
